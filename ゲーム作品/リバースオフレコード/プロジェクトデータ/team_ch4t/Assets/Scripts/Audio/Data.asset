@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34321d02d1d05164ebb18ced68f1123e, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  se_Data:
+  - id: 0
+    clip: {fileID: 8300000, guid: 9f85e3d27cc39e54cbae66a3b0b26f99, type: 3}
+    volume: 1
+    memo: 
+  - id: 1
+    clip: {fileID: 8300000, guid: 1589abe3f483cbd47a226e2724562172, type: 3}
+    volume: 1
+    memo: 
+  - id: 2
+    clip: {fileID: 8300000, guid: e76104f6d13400f4d80c07096690ad63, type: 3}
+    volume: 0.3
+    memo: "\u77F3\u3092\u3072\u3063\u304F\u308A\u8FD4\u3057\u305F\u3068\u304D\u306E\u97F3"
+  - id: 3
+    clip: {fileID: 8300000, guid: 4fdf1571c9305ab42b68bdd56568a110, type: 3}
+    volume: 1
+    memo: "\u30AB\u30EB\u30C6\u3092\u958B\u304F\u3068\u304D\u306E\u97F3"
+  - id: 4
+    clip: {fileID: 8300000, guid: bf12ddb5aea6a48458f735951bb68d9a, type: 3}
+    volume: 1
+    memo: "\u30C6\u30AD\u30B9\u30C8"
+  - id: 5
+    clip: {fileID: 8300000, guid: 4abd32d863d5d1341854bd6454e5f9c9, type: 3}
+    volume: 1
+    memo: "\u30AB\u30C3\u30C8\u30A4\u30F3"
+  - id: 6
+    clip: {fileID: 8300000, guid: e511c1ef2a821914e8938d3526519fe8, type: 3}
+    volume: 1
+    memo: "\u30C1\u30E3\u30A4\u30E0"
+  - id: 7
+    clip: {fileID: 8300000, guid: e17637c84c7a3304785efe879c986a4a, type: 3}
+    volume: 1
+    memo: "\u30A2\u30E9\u30FC\u30E0"
+  bgm_Data:
+  - id: 0
+    clip: {fileID: 8300000, guid: 51669e512969e6e44a6e69eefd63e3c9, type: 3}
+    volume: 1
+    memo: 
+  - id: 1
+    clip: {fileID: 8300000, guid: 69b61b0a54145e1429725a2d2618ff35, type: 3}
+    volume: 1
+    memo: 
+  - id: 2
+    clip: {fileID: 8300000, guid: baec06e160c1314489514fc8153b8d28, type: 3}
+    volume: 1
+    memo: 
+  - id: 3
+    clip: {fileID: 8300000, guid: a0b4173c78b9137468fa898d0ae23051, type: 3}
+    volume: 1
+    memo: "\u30BF\u30A4\u30C8\u30EB\u7528BGM"
